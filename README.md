@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m Nipun.
+🌱 I’m currently working as a Software Engineer I at Smarsh.
+💞️ I’m looking to collaborate on cool projects and building interesting features.
+👀 Reach out to me - nipun.01@smarsh.com
+
 <!--
 **Nipun-Smarsh/Nipun-Smarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
