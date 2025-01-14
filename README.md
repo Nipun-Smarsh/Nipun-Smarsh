@@ -1,5 +1,5 @@
 👋 Hi! I’m Nipun. <br>
-🌱 I’m currently working as a Software Engineer I at Smarsh. <br>
+🌱 I’m currently working as a Software Engineer at Smarsh. <br>
 💞️ I’m looking to collaborate on cool projects and building interesting features. <br>
 👀 Reach out to me - nipun.pra222@gmail.com
 
